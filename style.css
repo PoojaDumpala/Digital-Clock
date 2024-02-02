@@ -74,6 +74,6 @@
 #mins::after{
     content: 'MINS';
 }
-#sec::after{
+#secs::after{
     content: 'SECS';
 }
